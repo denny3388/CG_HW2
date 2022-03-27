@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (DrawTriangle.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  VertexShaderExample.vcxproj -> C:\Users\dave\Desktop\CG\HW2\hw2\Debug\VertexShaderExample.exe
